@@ -1,0 +1,3 @@
+W<A<S<D to move helicopter
+P to fire rocket
+space to move up helicopter
